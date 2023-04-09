@@ -18,7 +18,7 @@ We use
 [RoBERTa-base](https://huggingface.co/xlm-roberta-base), 
 [MacBERT-base](https://huggingface.co/hfl/chinese-macbert-base), 
 [PERT-base](https://huggingface.co/hfl/chinese-pert-base), 
-[LERT-base](https://huggingface.co/hfl/chinese-lert-base)
+[LERT-base](https://huggingface.co/hfl/chinese-lert-base) 
 as the pretraining model.
 
 
@@ -34,10 +34,10 @@ bash train.sh
 
 Pretraining Model | Accuracy | Checkpoint
 :-------------------------:|:-------------------------:|:-------------------------:
-roberta |  93.04 | [ckp]()
-macbert |  93.33 | [ckp]()
-pert |  92.87 | [ckp]()
-lert |  93.27 | [ckp]()
+roberta |  93.04 | [ckp]():xxxx
+macbert |  93.33 | [ckp]():xxxx
+pert |  92.87 | [ckp]():xxxx
+lert |  93.27 | [ckp]():xxxx
 
 
 # Inference
