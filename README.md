@@ -32,7 +32,7 @@ bash train.sh
 
 # Result
 
-输入| 输出可视化 
+Pretraining Model | Accuracy
 :-------------------------:|:-------------------------:
 roberta |  93.04
 macbert |  93.33
