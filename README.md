@@ -32,12 +32,13 @@ bash train.sh
 
 # Result
 
-Pretraining Model | Accuracy ｜ Checkpoint 
-:-------------------------:|:-------------------------:|:-------------------------:
-roberta |  93.04 ｜ 1
-macbert |  93.33 ｜ 2
-pert |  92.87 ｜ 3
-lert |  93.27 ｜ 4
+Pretraining Model | Accuracy 
+:-------------------------:|:-------------------------:
+roberta |  93.04 
+macbert |  93.33 
+pert |  92.87 ｜ [ckp]()
+lert |  93.27 ｜ [ckp]()
+
 
 # Inference
 
