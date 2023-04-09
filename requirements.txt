@@ -1,0 +1,7 @@
+tqdm
+rich
+numpy
+pycocotools
+pandas
+transformers
+torch
