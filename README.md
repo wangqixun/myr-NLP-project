@@ -34,10 +34,10 @@ bash train.sh
 
 Pretraining Model | Accuracy | Checkpoint
 :-------------------------:|:-------------------------:|:-------------------------:
-roberta |  93.04 | [ckp](https://pan.baidu.com/s/1WhSAp374W7bQiiY6En5mPA?pwd=7v4j):7v4j
-macbert |  93.33 | [ckp]():xxxx
-pert |  92.87 | [ckp]():xxxx
-lert |  93.27 | [ckp]():xxxx
+roberta |  93.04 | [link](https://pan.baidu.com/s/1WhSAp374W7bQiiY6En5mPA?pwd=7v4j):7v4j
+macbert |  93.33 | [link]():xxxx
+pert |  92.87 | [link]():xxxx
+lert |  93.27 | [link]():xxxx
 
 
 # Inference
