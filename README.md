@@ -35,8 +35,8 @@ bash train.sh
 Pretraining Model | Accuracy | Checkpoint
 :-------------------------:|:-------------------------:|:-------------------------:
 roberta |  93.04 | [link](https://pan.baidu.com/s/1WhSAp374W7bQiiY6En5mPA?pwd=7v4j):7v4j
-macbert |  93.33 | [link]():xxxx
-pert |  92.87 | [link]():xxxx
+macbert |  93.33 | [link](https://pan.baidu.com/s/1ngY0RmeHr5rWrp980TYNyA?pwd=5pwk):5pwk
+pert |  92.87 | [link](https://pan.baidu.com/s/1hkEmVmFpPYFvwV5ztUVPhw):8frp
 lert |  93.27 | [link]():xxxx
 
 
@@ -47,6 +47,7 @@ After modifying the data path and pretraining model path, execute
 ```
 python infer.py
 ```
+
 
 
 
