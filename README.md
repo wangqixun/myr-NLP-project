@@ -32,7 +32,7 @@ bash train.sh
 
 # Result
 
-Pretraining Model | Accuracy 
+Pretraining Model | Accuracy | Checkpoint
 :-------------------------:|:-------------------------:
 roberta |  93.04 ｜ [ckp]()
 macbert |  93.33 ｜ [ckp]()
